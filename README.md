@@ -10,4 +10,4 @@ Let's dive in and level up! 💻✨
 5. Type ```git clone```, and then paste the valid ```SSH Key```.
 6. Then hit **Enter**. That's it.
 ## License
-### As for the legal stuff, there's no need for any fancy licenses. You can use these code snippets however you want.
+As for the legal stuff, there's no need for any fancy licenses. You can use these code snippets however you want.
