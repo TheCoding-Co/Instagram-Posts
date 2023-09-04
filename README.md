@@ -2,7 +2,7 @@
 🌟 Join us on this journey as we explore a wide range of projects that will enhance your skills and expand your coding journey. 
 Let's dive in and level up! 💻✨
 ## Usage
-### Clone any repository:
+**How to Clone any repository**
 1. Navigate to the repository you wish to clone.
 2. Click on the "**<> Code**" button.
 3. Copy the URL located under the "**SSH**" tab.
